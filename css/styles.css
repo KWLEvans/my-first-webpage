@@ -1,0 +1,63 @@
+body {
+  background-image: url(../img/background.jpg);
+}
+
+h1{
+  font-family: 'Permanent Marker', cursive;
+  color: fuchsia;
+}
+
+h2 {
+   font-family: 'Bungee Shade', cursive;
+   color: #42f448;
+   background-color: black;
+
+}
+
+div {
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 40px;
+  margin: 60px;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  padding: 10px;
+  font-family: 'Mountains of Christmas', cursive;
+  font-size: 32px;
+}
+
+img {
+  border-radius: 25%;
+  -webkit-transition: -webkit-transform .8s ease-in-out;
+          transition:         transform .8s ease-in-out;
+}
+
+img:hover {
+  -webkit-transform: rotate(360deg);
+          transform: rotate(1080deg);
+  -webkit-filter: hue-rotate(325deg);
+          filter: hue-rotate(325deg);
+}
+
+#heart {
+  border-radius: 40%;
+  border-right: 10px;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  font-size: 100px;
+  font-family: 'Creepster', cursive;
+  color: #b2052d;
+  text-shadow: 10px 10px #000;
+}

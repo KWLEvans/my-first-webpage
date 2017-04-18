@@ -1,6 +1,6 @@
-#_My First Webpage_
+# _My First Webpage_
 
-##_A compelling foray into coding, January the 2nd, 2017_
+## _A compelling foray into coding, January the 2nd, 2017_
 
 ### By _**Keith Evans and Philip Putnam**_
 
